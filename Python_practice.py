@@ -36,3 +36,54 @@ now = datetime.datetime.now()
 #print the present time.
 print("The time right now is,", now)'''
 
+'''
+#Iterating through a list that takes inputs and correcting the case
+#based on the name appearance
+a = input("Friend 1 :")
+b = input("Friend 2 :")
+c = input("Friend 3 :")
+d = input("Friend 4 :")
+e = input("Friend 5 :")
+
+#fl = ["NICK", "NICHOLAS", "NICOLAI", "NICO", "NICS"]
+friend_list = [a,b,c,d,e]
+friend_list_low = []
+friend_list_correct = []
+
+for i in friend_list:
+    friend_list_low.append(i.lower())
+
+for i in friend_list_low:
+    friend_list_correct.append(i.title())
+
+print(friend_list_correct)
+'''
+
+# define the function to take the average
+def average(list):
+
+    # lets get the total
+    sum = 0
+
+    # get the length of the list to get a divisor
+    divisor = len(list)
+
+    # iterate through list to add to our sum
+    for i in list:
+        sum += i
+
+    #take the average
+    avg = int(sum) / int(divisor)
+
+    # magic average
+    return avg
+
+# creating lists for testing
+list_1 = [90,80,70,60,50]
+l2 = [1,2,3,4,5]
+l3 = [12,46,12,13,90,13,12]
+
+# lets see if it works
+print(average(list_1))
+print(average(l2))
+print(average(l3))
