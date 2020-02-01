@@ -128,7 +128,7 @@ with open(file_to_save, "w") as txt_file:
     #print(f"{candidate}: {vote_percentage:.1f}% ({vote:,})\n")
 
     # now time to print the winner
-    #print(f"{winning_candidate} won the election with {winning_percentage}% of the vote and {winning_count} total votes")
+    print(f"{winning_candidate} won the election with {winning_percentage}% of the vote and {winning_count} total votes")
 
     # Close the file.
     election_data.close()
