@@ -1,5 +1,7 @@
 # Election-Analysis
 
+#### Please Examine Final Analysis folder in order to see the work completed. 
+
 ## Project Overview
 A Colorado Board of Elections employee requested the following be completed
 
