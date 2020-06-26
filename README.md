@@ -3,6 +3,9 @@
 #### Please Examine Final Analysis folder in order to see the work completed. 
 
 ## Project Overview
+
+![Colorado Election Data](Resources/Election_Data.png)
+
 A Colorado Board of Elections employee requested the following be completed
 
 1. Calculate the total number of votes cast.
@@ -40,6 +43,9 @@ The analysis of the election shows that:
 5. Determine county with the largest turnout
 
  ## Summary
+ 
+![]()
+ 
 Upon further analysis the results of the county turnout are as follows (Output in election_analysis.txt)
 
 Counties that cast votes:</br>  
