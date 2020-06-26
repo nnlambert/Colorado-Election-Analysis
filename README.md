@@ -44,7 +44,7 @@ The analysis of the election shows that:
 
  ## Summary
  
-![]()
+![Elections Results](Resources/Election_Results.png)
  
 Upon further analysis the results of the county turnout are as follows (Output in election_analysis.txt)
 
