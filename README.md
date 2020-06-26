@@ -29,7 +29,7 @@ The analysis of the election shows that:
 - The winner of the election was:
  - Diana Degette who received a total of 272892 votes
  
- ## Challenge Overview
+ ## Objectives
  Upon completion, Election commission expanded scope of the project to confirm and output voter turnout by county.
 
 
@@ -39,7 +39,7 @@ The analysis of the election shows that:
 4. Calculate the percentage of votes each county cast.
 5. Determine county with the largest turnout
 
- ## Challenge Summary
+ ## Summary
 Upon further analysis the results of the county turnout are as follows (Output in election_analysis.txt)
 
 Counties that cast votes:</br>  
